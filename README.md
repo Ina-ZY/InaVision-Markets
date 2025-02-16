@@ -1,16 +1,13 @@
 # InaVision-Markets
 Quantitative analysis of the stock market, the impact of global economic conditions and major events on market performance, and the future development of the economy.
 
-<div style="text-align: center;">
-  <img src="./1.jpg" width="500" height="500" />
-</div>
+![Alt text](./1.jpg)
+
 
 
 
 ---
 ## Abstract
-
-**Summary of My Research Study Plan:**
 
 1. **Segmentation by Market Conditions:**  
    I will classify stocks based on their performance in bull and bear markets. This approach will allow me to identify which stocks perform well under different market conditions, and I will backtest various technical analysis strategies separately for each scenario.
@@ -39,3 +36,6 @@ Quantitative analysis of the stock market, the impact of global economic conditi
    - What impact do global economic conditions and major events have on stock market performance, and how can these factors be integrated into strategy development?  
    - How can risk be minimized to achieve relatively stable returns in volatile market environments?  
    - What future economic trends can be anticipated, and how might they affect the performance and selection of stock trading strategies?
+## First Cryptocurrency Market
+### Analyzing the Cryptocurrency Market with ccxt
+
