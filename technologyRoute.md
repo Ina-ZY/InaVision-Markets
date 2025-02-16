@@ -83,3 +83,18 @@ graph LR
 
 
 ```
+---
+## Thinking
+#### First, we screen and backtest stocks that perform well in bull and bear markets. Secondly, we test these strategies one by one.
+#### The targets are divided into three categories: /A-shares/Hong Kong stocks/US stocks/stock types.
+#### Then we target different fields: /traditional industries/commodities/technology stocks/
+#### New fields: AI/robots/unmanned driving/hot sectors.
+#### Backtest ETF C-shares.
+#### Analyze the impact of major events on related stocks.
+#### **Stock similarity analysis** with the same strategy can be used in key cities.
+## Conclusion:
+#### What kind of strategy is better for what kind of stocks?
+#### How to better observe stock trends?
+#### What is the impact of the current world economic situation on the stock market?
+#### How to avoid risks as much as possible in the stock market and get relatively stable returns?
+#### Outlook for the future economy.
