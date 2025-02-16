@@ -1,7 +1,10 @@
 # InaVision-Markets
 Quantitative analysis of the stock market, the impact of global economic conditions and major events on market performance, and the future development of the economy.
 
-![Alt text](./1.jpg)
+<p align="center">
+  <img src="./1.jpg" width="500" />
+</p>
+
 
 
 
@@ -38,4 +41,10 @@ Quantitative analysis of the stock market, the impact of global economic conditi
    - What future economic trends can be anticipated, and how might they affect the performance and selection of stock trading strategies?
 ## First Cryptocurrency Market
 ### Analyzing the Cryptocurrency Market with ccxt
+
+<p align="center">
+  <img src="./2.jpg" width="500" />
+</p>
+
+
 
