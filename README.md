@@ -41,11 +41,11 @@ Quantitative analysis of the stock market, the impact of global economic conditi
 ### Is the popular dual moving average strategy really useful for long-term cryptocurrency investment?
 ### Stablecoin (USDT/USDC) volatility
 <p align="center">
-  <img src="./2.jpg" width="500" />
+  <img src="./cryptocurrency/USDT.png" width="500" />
 </p>
 ### Mainstream cryptocurrencies performance over 5 years
 <p align="center">
-  <img src="./2.jpg" width="500" />
+  <img src="./cryptocurrency/cryptocurrencies.png" width="500" />
 </p>
 ### Results display
 
