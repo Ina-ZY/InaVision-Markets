@@ -2,7 +2,7 @@
 Quantitative analysis of the stock market, the impact of global economic conditions and major events on market performance, and the future development of the economy.
 
 <p align="center">
-  <img src="./1.jpg" width="500" />
+  <img src="./1.jpg" width="300" />
 </p>
 
 
@@ -36,17 +36,20 @@ Quantitative analysis of the stock market, the impact of global economic conditi
 ### Analyzing the Cryptocurrency Market with ccxt
 
 <p align="center">
-  <img src="./2.jpg" width="500" />
+  <img src="./2.jpg" width="300" />
 </p>
-### Is the popular dual moving average strategy really useful for long-term cryptocurrency investment?
-### Stablecoin (USDT/USDC) volatility
+
+### 1.Is the popular dual moving average strategy really useful for long-term cryptocurrency investment?**
+### 2.Stablecoin (USDT/USDC) volatility
 <p align="center">
-  <img src="./cryptocurrency/USDT.png" width="500" />
+  <img src="./cryptocurrency/USDT.png" width="1000" />
 </p>
-### Mainstream cryptocurrencies performance over 5 years
+
+### 3.Mainstream cryptocurrencies performance over 5 years
 <p align="center">
-  <img src="./cryptocurrency/cryptocurrencies.png" width="500" />
+  <img src="./cryptocurrency/cryptocurrencies.png" width="1000" />
 </p>
-### Results display
+
+### 4.Results display
 
 
