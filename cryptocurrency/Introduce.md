@@ -41,4 +41,5 @@
     - **Description:** A tokenized version of staked Ether, representing ETH staked (typically via platforms like Lido) to earn staking rewards.
 
 ## 1.Double Moving Average
-The chart shows a significant growth in cryptocurrency during 2021-2022, indicating a bull market. It is important to note that in a bull market, many strategies can achieve relatively good returns. In this experiment, a dual moving average strategy was employed to backtest the performance during the bull market of 2021-2022. The initial capital was set at 1000 USD, and the backtest evaluated the returns of various dual moving average configurations.
+The chart shows a significant growth in cryptocurrency during 2021-2022, indicating a bull market. It is important to note that in a bull market, many strategies can achieve relatively good returns. In this experiment, a dual moving average strategy was employed to backtest the performance during the bull market of 2021-2022. The initial capital was set at 10000 USD, and the backtest evaluated the returns of various dual moving average configurations.
+**First, test the yields of different currencies, recommend a more suitable combination, and calculate the yield of the combination.**
